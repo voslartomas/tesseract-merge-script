@@ -8,6 +8,12 @@ This is bash script, which
 - enlarge merged image
 - run tesseract OCR to read the whole image
 
+Dependencies
+============
+
+- tesseract-ocr
+- imagemagick
+
 Usage
 =====
 
